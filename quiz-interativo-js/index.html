@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiz JS</title>
+</head>
+<body>
+  <h1>Quiz Interativo</h1>
+  <button onclick="responder()">Clique para responder</button>
+  <script>
+    function responder() {
+      let resposta = prompt("Qual a linguagem mais usada no mundo?");
+      if (resposta.toLowerCase() === "javascript") {
+        alert("Correto!");
+      } else {
+        alert("Tente novamente.");
+      }
+    }
+  </script>
+</body>
+</html>
