@@ -9,5 +9,3 @@ Breve descrição do projeto.
 ## Como Executar
 Instruções para rodar o projeto localmente.
 
-## Prints
-Adicione aqui prints ou gifs do projeto em funcionamento.
